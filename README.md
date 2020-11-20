@@ -1,0 +1,2 @@
+# baseline
+baseline for competitions
